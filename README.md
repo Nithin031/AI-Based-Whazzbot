@@ -26,3 +26,4 @@ AI-powered WhatsApp assistant automates message replies using Google Gemini AI. 
 5. Sends replies automatically.  
 
 🔹 **Fast & Smart WhatsApp Automation!** 🔹  
+Author - Nithin N
