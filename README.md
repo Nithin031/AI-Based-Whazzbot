@@ -37,11 +37,23 @@ The bot supports **multiple languages** and features **clipboard integration, Ch
 4. **Copies the AI-generated reply** to the clipboard for quick pasting.  
 5. **Optionally sends messages automatically** (configurable).  
 
-## To Run the AI_Wazzbot1.py
+## 😀To Run the AI_Wazzbot1.py
 Please go through the **setup.md**.
 
 ---
 
 🔹 **Fast, Smart & Fully Automated WhatsApp Assistance!** 🔹  
 🚀 **Stay tuned for upcoming updates & enhancements!** 🚀  
+
+## Author : Nithin N
+
+Contact for Queries
+
+If you have any questions, feel free to reach out:
+
+📧 Email: [nithin.nc03@gmail.com]
+
+🚀 Discord ID :[@wizzy_2k6]
+
+💻 LinkedIN : [https://www.linkedin.com/in/nithin-n-19890a326/]
 
