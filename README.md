@@ -1,29 +1,25 @@
-# AI-Based-Whazzbot
-AI-powered WhatsApp assistant automates message replies using Google Gemini AI. It uses Selenium for web automation, PyAutoGUI for UI, and gTTS for speech. Supports multiple languages and lets users switch between AI and manual replies. Features clipboard integration and profile persistence.
+AI-Based-WhazzBot
+An AI-powered WhatsApp assistant that automates message replies using Meta's Llama 3-70B Instruct. It utilizes Selenium for web automation, PyAutoGUI for UI control, and gTTS for speech output. The bot supports multiple languages and features clipboard integration, Chrome profile persistence, and fast AI-generated responses.
 
-## 🚀 Features  
+🚀 Features
+✅ Automated Message Retrieval (via Selenium) – Reads incoming messages from WhatsApp Web.
+✅ AI-Powered Smart Replies (via Llama 3-70B Instruct) – Provides context-aware responses.
+✅ Multi-Language Support – Supports English (EN), Hindi (HI), Kannada (KN), Telugu (TE), Tamil (TA), and Malayalam (ML).
+✅ Voice Alerts & Speech Output (via gTTS) – Reads out messages for hands-free assistance.
+✅ Clipboard Integration – AI responses are copied to the clipboard for quick pasting.
+✅ Chrome Profile Persistence – Saves WhatsApp login sessions for a seamless experience.
+✅ Optimized Speed & Stability – Faster message processing & AI response time.
+✅ User-Friendly & Lightweight – Minimal resource usage with real-time automation.
 
-✅ **Automated Message Retrieval** (Selenium)  
-✅ **AI-Powered Replies** (Google Gemini AI)  
-✅ **Multi-Language Support** (EN, HI, KN, TE, TA, ML)  
-✅ **Voice Alerts** (gTTS)  
-✅ **Keyboard Shortcuts** (Ctrl → AI, Tab → Manual)  
-✅ **Clipboard Integration**  
-✅ **Chrome Profile Persistence**  
-
-## 🛠 Tech Stack  
-
-- **Python** (Selenium, PyAutoGUI, Pyperclip, gTTS, Playsound, Keyboard)  
-- **Google Gemini AI**  
-- **Selenium WebDriver**  
-
-## ⚙️ How It Works  
-
-1. Opens **WhatsApp Web** in Chrome.  
-2. Extracts recent messages.  
-3. Detects intent (**Ctrl** → AI, **Tab** → Manual).  
-4. Copies AI-generated replies to the clipboard.  
-5. Sends replies automatically.  
-
-🔹 **Fast & Smart WhatsApp Automation!** 🔹  
-Author - Nithin N
+🛠 Tech Stack
+Python (Selenium, PyAutoGUI, Pyperclip, gTTS, Playsound, Keyboard)
+Meta Llama 3-70B Instruct (for AI-generated responses)
+Selenium WebDriver (for WhatsApp Web automation)
+gTTS (for text-to-speech voice notifications)
+PyAutoGUI & Pyperclip (for UI automation & clipboard control)
+⚙️ How It Works
+Opens WhatsApp Web in a Chrome session (persistent login).
+Retrieves unread messages from selected chats.
+Uses Meta's Llama 3-70B Instruct to generate context-aware responses.
+Copies the AI-generated reply to the clipboard for quick pasting.
+Optionally sends messages automatically (configurable).
