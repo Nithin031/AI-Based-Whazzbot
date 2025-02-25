@@ -16,6 +16,30 @@ If you're new to Git and GitHub, check out these videos to get started:
 - 📌 [Git & GitHub Basics](https://youtu.be/HkdAHXoRtos?si=JMK7J6WVxL5bQNK9)  
 - 📌 [Git Commands & Workflow](https://youtu.be/mJ-qvsxPHpY?si=IkgX_lTHcQjt696Q)
 
+# How to Create a GitHub Account  
+
+GitHub is a platform for hosting and collaborating on code projects. Follow these steps to create an account:  
+
+## **Step 1: Go to GitHub**  
+Visit [GitHub](https://github.com) in your web browser.  
+
+## **Step 2: Sign Up**  
+1. Click on the **"Sign up"** button in the top-right corner.  
+2. Enter your **email address**, **username**, and **password**.  
+3. Click **"Continue"** and follow the on-screen instructions.  
+
+## **Step 3: Verify Your Email**  
+GitHub will send you a confirmation email. Open your inbox and click on the verification link.  
+
+## **Step 4: Set Up Your Profile**  
+- You can choose **public or private repositories**.  
+- Optionally, select your **interests** to get project recommendations.  
+
+## **Step 5: Start Using GitHub**  
+You’re now ready to create repositories, contribute to projects, and explore open-source software! 🎉  
+
+For further help, check the [GitHub Docs](https://docs.github.com/en).  
+
 ## To Clone the Repository into Your PC
 
 Run the following command by opening a terminal in the required directory:
